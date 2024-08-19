@@ -5,6 +5,9 @@ Este script do Google Apps Script automatiza a criação de documentos técnicos
 Exemplo:
 ![image](https://github.com/user-attachments/assets/3bf2a28a-8a5c-4ac3-9ddf-fa2c287ee94b)
 
+#Planilha start
+![image](https://github.com/user-attachments/assets/116e3744-c758-4034-98aa-9b7b8f824bbe)
+
 # Funcionalidade
 
     Leitura de Dados: Obtém dados da planilha ativa no Google Sheets, incluindo o número inicial, o nome do arquivo e os dados das linhas.
