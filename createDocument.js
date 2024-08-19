@@ -10,8 +10,8 @@ function createNewGoogleDocs() {
   Logger.log(file_name);
   Logger.log(initial_counting_number);  
 // Get your template and destination folder
-  var template = DriveApp.getFileById("1UAqxZH-Ltd23_W5KX-5Ya-8vdx7YCeZ2TZC4lU-HS8w");
-  var destinationFolder = DriveApp.getFolderById('1dFc8kKmtVsoUvgUhM9YuGkqsy6_JW87A');
+  var template = DriveApp.getFileById("INSIRA O SEU");
+  var destinationFolder = DriveApp.getFolderById('INSIRA O SEU');
   const copy = template.makeCopy(file_name, destinationFolder);
   var doc = DocumentApp.openById(copy.getId());
   var body = doc.getBody(); 
